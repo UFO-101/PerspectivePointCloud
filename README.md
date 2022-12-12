@@ -9,7 +9,6 @@ This repo contains code for creating a point cloud that, when viewed from differ
 | ![Cat Drawing](/images/cat_face_line_drawing.jpeg?raw=true "Cat Drawing") | ![Dog Drawing](/images/dog_face.jpeg?raw=true "Dog Drawing") | ![Guitar Drawing](/images/guitar_line_drawing.jpeg?raw=true "Guitar Drawing")
 | Point Cloud Perspective 1  |  Point Cloud Perspective 2 |  Point Cloud Perspective 3 |
 | ![Cat Point Cloud](/images/cat_point_cloud.png?raw=true "Cat Point Cloud") | ![Dog Point Cloud](/images/dog_point_cloud.png?raw=true "Dog Point Cloud") | ![GuitarOutput](/images/guitar_point_cloud.png?raw=true "Guitar Point Cloud") |
- |
 
 <h3 align="center">(It's the same point cloud)</h3>
 
