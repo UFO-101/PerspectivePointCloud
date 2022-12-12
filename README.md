@@ -12,11 +12,9 @@ This repo contains code for creating a point cloud that, when viewed from differ
 
 <h3 align="center">(It's the same point cloud)</h3>
 
-
-
-https://user-images.githubusercontent.com/47218308/206943774-d34c71bd-a524-40fd-917b-6d3cbae778e2.mp4
-
-
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/47218308/206943774-d34c71bd-a524-40fd-917b-6d3cbae778e2.mp4" width=400/>
+<div/>
 
 ## Get started
 
